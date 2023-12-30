@@ -1,0 +1,96 @@
+/* LAYOUT */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+:root{
+    --backgroundprimary: #f0d7ad;
+    --backgroundsecondary: #94755a;
+    --backgroundtertiary: #b99c84;
+    --accentprimary: #aaba9e;
+    --accentsecondary: #606f49;
+    
+    --textlight: #ffebda;
+    --textdark: #f4d7bd;
+    --textdarker: #5a433a;
+
+    --linkcolour: rgb(87, 107, 105);
+
+    --primaryfont: 'Noto Sans', sans-serif;
+}
+
+body {
+  color: var(--textdarker);
+  font-family: var(--primaryfont);
+  font-size: 110%;
+  line-height: 1.5;
+  max-width: 60rem;
+  padding: 1rem;
+  margin: 0 auto;
+  background-color: var(--backgroundprimary);
+}
+
+.content {
+  margin-bottom: 2rem;
+  margin:10px;
+}
+
+hr{
+  color:var(--backgroundsecondary);
+}
+/* NAVIGATION */
+
+.site-nav {
+  display:flex;
+  background-color: var(--backgroundsecondary);
+  border-radius: 50px;
+  padding: 5px;
+}
+
+.site-nav a {
+  display:block;
+  padding: 1rem;
+  color: var(--textlight);
+  font-size:120%;
+  text-decoration: none;
+  margin-left:10px;
+}
+
+a{
+  color:var(--linkcolour)
+}
+
+.site-nav .logo {
+  padding-left: 0;
+}
+
+.main-menu {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+footer{
+  margin:10px;
+  text-align: center;
+}
+
+@media screen and (max-width: 25rem) {
+  .site-nav,
+  .main-menu {
+    flex-direction: column;
+  }
+
+  .site-nav a {
+    padding: 0.5rem;
+    padding-left: 0;
+  }
+}
+
+/* LISTS */
+
+.post-snippet {
+  margin-bottom: 1rem;
+}
+
+.post-snippet h3 {
+  margin-bottom: 0.25rem;
+}

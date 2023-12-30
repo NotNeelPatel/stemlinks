@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on StemLinks</title>
+    <link>/</link>
+    <description>Recent content in Home on StemLinks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This website is very much a WIP.
+I want to make a website that contains resources that I found useful that made my life easier. We should not gatekeep information. Education should be free.
+Rules for Submitting Links Eventually there will be infrastructure that will allow you to add links yourself. All links/resources must follow the following rules:
+The resource must be helpful to the student. Any scam links, spam links, phishing/virus attempts and/or links that are otherwise harmful and/or irrelevant to the safety or learning of the student is not permitted.</description>
+    </item>
+    
+    <item>
+      <title>COMP 1805</title>
+      <link>/courses/comp1805/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/courses/comp1805/</guid>
+      <description>Link: DiscreteMath Unit(s): All Description: &amp;ldquo;Built by Carleton students, for Carleton students. DiscreteMath.ca is an interactive platform built specifically for content from Carleton&amp;rsquo;s discrete mathematics courses.&amp;rdquo; [DiscreteMath.ca]</description>
+    </item>
+    
+    <item>
+      <title>COMP 2804</title>
+      <link>/courses/comp2804/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/courses/comp2804/</guid>
+      <description>Link: DiscreteMath Unit(s): All Description: &amp;ldquo;Built by Carleton students, for Carleton students. DiscreteMath.ca is an interactive platform built specifically for content from Carleton&amp;rsquo;s discrete mathematics courses.&amp;rdquo; [DiscreteMath.ca]
+Link: Pat Morin COMP 2804 Unit(s): All Description: Assignments, previous exams, and video lectures.</description>
+    </item>
+    
+    <item>
+      <title>ECOR 1045</title>
+      <link>/courses/ecor1045/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/courses/ecor1045/</guid>
+      <description>Link: Jeff Hanson Statics Course Unit(s): All Description: A playlist that follows the Statics and Dynamics textbook by Hibbler</description>
+    </item>
+    
+    <item>
+      <title>SYSC 3600</title>
+      <link>/courses/sysc3600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/courses/sysc3600/</guid>
+      <description>Link: Swarthmore Linear Physical Systems Analysis Unit(s): Almost All Description: A website with interactive elements that explains most of the concepts taught in class, with graphs and examples. Contains a map of all the topics and how they are connected with each other. Great for learning Bode plots.</description>
+    </item>
+    
+    <item>
+      <title>SYSC 4001</title>
+      <link>/courses/sysc4001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/courses/sysc4001/</guid>
+      <description>Link: Tutorialspoint Operating Systems Course Unit(s): All Description: Youtube Playlist that follows Operating Systems Concepts textbook by Silberschatz.
+Link: Michigan Tech CS4411 Unit(s): All Description: Contains practice homework and exams, follows Operating Systems textbook by Anderson.</description>
+    </item>
+    
+  </channel>
+</rss>

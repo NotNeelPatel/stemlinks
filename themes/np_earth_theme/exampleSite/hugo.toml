@@ -1,0 +1,16 @@
+baseURL = "https://notneelpatel.github.io/subprof/"
+title = "My New Hugo Site"
+theme = "np_earth_theme"
+
+[menu]
+  [[menu.main]]
+    identifier = "courses"
+    name = "Courses"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 20

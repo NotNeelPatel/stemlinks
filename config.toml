@@ -1,0 +1,17 @@
+# baseURL = '/'
+baseURL = 'https://notneelpatel.github.io/stemlinks/'
+languageCode = 'en-us'
+title = 'StemLinks'
+
+[menu]
+  [[menu.main]]
+    identifier = "courses"
+    name = "Courses"
+    url = "/courses"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 20

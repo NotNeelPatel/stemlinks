@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/about/</loc>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/courses/comp1805/</loc>
+  </url><url>
+    <loc>/courses/comp2804/</loc>
+  </url><url>
+    <loc>/courses/</loc>
+  </url><url>
+    <loc>/courses/ecor1045/</loc>
+  </url><url>
+    <loc>/</loc>
+  </url><url>
+    <loc>/courses/sysc3600/</loc>
+  </url><url>
+    <loc>/courses/sysc4001/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url>
+</urlset>

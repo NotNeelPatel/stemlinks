@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+
+<h1>{{ .Title }}</h1>
+<hr />
+{{ .Content }}
+
+{{ range .Pages.ByLinkTitle }}
+<article class="post-snippet">
+  <h3>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </h3>
+  <h4>
+    {{ .Description }}
+  </h4>
+  <p>{{ with .Params.Alt }} Also known as:  {{ . }} {{end}}</p>
+  <hr />
+</article>
+{{ end }}
+
+{{ partial "footer.html" . }}
