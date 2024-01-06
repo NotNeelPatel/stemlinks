@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 
-<h1>{{ .Title }} {{ .Description }}</h1>
+<h1>{{ .Title }}: {{ .Description }}</h1>
 <p>{{ with .Params.Alt }} Also known as:  {{ . }} {{end}}</p>
 
 {{ .Content }}
